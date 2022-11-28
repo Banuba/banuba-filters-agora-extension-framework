@@ -1,0 +1,6 @@
+framework module BanubaFiltersAgoraExtension {
+  umbrella header "BanubaFiltersAgoraExtension.h"
+
+  export *
+  module * { export * }
+}
