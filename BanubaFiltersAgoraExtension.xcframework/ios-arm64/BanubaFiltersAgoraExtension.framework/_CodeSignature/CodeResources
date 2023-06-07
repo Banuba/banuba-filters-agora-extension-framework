@@ -14,11 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eBXxPN0VWMZ/GYL3d3vWpVlirYY=
+		+qeNYjYVNs/S5GhRgbydLPNqsFw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Q9gKUfWmuTPy/6aT4QwF0NAYv+4=
+		</data>
+		<key>bnb-resources/watermark.png</key>
+		<data>
+		Vo2SsKfoLurWA0MqHYDDPADgpp4=
+		</data>
+		<key>bnb-resources/watermark_blurred.png</key>
+		<data>
+		ww75OHHcRiTevLNIfj4WOvS+wrU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,6 +50,20 @@
 			<key>hash2</key>
 			<data>
 			7HQOE13i3BSRO0HSWHVIs6Rv2M+W5rxJ+ebLnw/x+Yg=
+			</data>
+		</dict>
+		<key>bnb-resources/watermark.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EM3Wj3/G5VbssK9Nun8+c54VNhV5u6vh19NOkYCmr1Y=
+			</data>
+		</dict>
+		<key>bnb-resources/watermark_blurred.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9f4++Igku10UVCZQ+VBcgFNwc077TQnzTB92wfAK9hs=
 			</data>
 		</dict>
 	</dict>
