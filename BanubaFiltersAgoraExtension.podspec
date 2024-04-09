@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'BanubaFiltersAgoraExtension'
-    s.version          = '2.4.1'
+    s.version          = '2.4.2'
     s.summary          = 'Extension to use Banuba Filters SDK with Agora'
     s.homepage         = 'https://banuba.com'
     s.author           = { 'Banuba Limited' => 'info@banuba.com' }
@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = 'BanubaFiltersAgoraExtension.xcframework'
 
     s.dependency 'AgoraRtcEngine_iOS/RtcBasic', '~> 4.2.3'
-    s.dependency 'BNBSdkCore', '~> 1.9.0'
+    s.dependency 'BNBSdkCore', '>= 1.9.0'
 end
