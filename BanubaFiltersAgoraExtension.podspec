@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
 
     s.ios.vendored_frameworks = 'BanubaFiltersAgoraExtension.xcframework'
 
-    s.dependency 'AgoraRtcEngine_iOS/RtcBasic', '~> 4.2.3'
-    s.dependency 'BNBSdkCore', '>= 1.9.0'
+    s.dependency 'AgoraRtcEngine_iOS/RtcBasic', '~> 4.3.2'
+    s.dependency 'BNBSdkCore', '>= 1.15.0'
 end
