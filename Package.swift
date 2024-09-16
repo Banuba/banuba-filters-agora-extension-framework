@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "BanubaFiltersAgoraExtension",
             url: "https://github.com/Banuba/banuba-filters-agora-extension-framework/raw/main/BanubaFiltersAgoraExtension.xcframework.zip",
-            checksum: "54945d13ebe0bc1a68455db4ced9d849100844b96bb8fe65aecde504feb643dd"
+            checksum: "d66c7ecc07dd94557282df765182f154e8715230aa75f12eb9e1d0962130c6bd"
         ),
     ]
 )
