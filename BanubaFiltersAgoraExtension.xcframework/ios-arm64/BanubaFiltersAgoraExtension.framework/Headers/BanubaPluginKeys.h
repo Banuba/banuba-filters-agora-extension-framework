@@ -7,6 +7,8 @@ extern NSString * __nonnull const BNBKeyUnloadEffect;
 extern NSString * __nonnull const BNBKeySetBanubaLicenseToken;
 extern NSString * __nonnull const BNBKeySetEffectsPath;
 extern NSString * __nonnull const BNBKeyEvalJSMethod;
+extern NSString * __nonnull const BNBKeyRelease;
+
 /**
  * Deprecated, use BNBKeySetBanubaLicenseToken instead;
  */
